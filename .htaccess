@@ -1,4 +1,4 @@
 RewriteEngine on  
-RewriteCond $1 !^(index\.php|images|js|css|uploads|pay|robots\.txt)  
+RewriteCond $1 !^(index\.php|img|js|css|uploads|pay|robots\.txt)  
 RewriteRule ^(.*)$ /merak/index.php/$1 [L]
 
