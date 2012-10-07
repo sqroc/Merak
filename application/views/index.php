@@ -4,10 +4,8 @@
 			<div id="landing">
 				<div class="container">
 					<div class="hero-unit">
-						<h1>Heading</h1>
-						<p>
-							Tagline
-						</p>
+						<h1>JH SHARING</h1>
+
 						<p>
 							<a class="btn btn-primary btn-large">  Let's Share !</a>
 						</p>
